@@ -3,7 +3,7 @@ A responsive netflix clone using reactjs.
 
 
 ## Live Demo 
-<a href='https://netflix-clone-7.netlify.app/' target="_blank">Netflix</a>
+<a href='https://netflix-8888.netlify.app/' target="_blank">Netflix</a>
 
 ## Features
 --> Active navbar similar to original netflix
