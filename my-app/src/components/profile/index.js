@@ -18,23 +18,23 @@ const Profile = () =>{
                 </div>
                 <div>
                     <div>
-                        <h1>Hi! I'm Chirag Chouhan</h1>
+                        <h1>Hi! I'm Shubham Patil</h1>
                     </div>
                     <div>
-                        <p>A student at Delhi Technological University (DTU), pursuing a Bachelor's Degree in Computer Engineering. I have a keen interest in programming and I like to keep developing stuff for fun. I create clean, professional and functional websites.</p>
+                        <p>A student, pursuing a Bachelor's Degree in Information Technology.I like to build Full-stack Web App and am currently learning about Web 3.0, I like to keep developing stuff for fun. I create clean, professional and functional websites.</p>
                     </div>
                     <div className="link">
                     <label>Contact me </label> 
-                    <a href="https://www.linkedin.com/in/chirag-chouhan-b48311228/" target="_blank" className="ln"  >  <i className="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-                    <a href="https://www.instagram.com/chiragchouhan.23/" target="_blank" rel="noopener noreferrer" className="insta"> <i className="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+                    <a href="https://www.linkedin.com/in/shubham-patil-773b641a5/" target="_blank" className="ln"  >  <i className="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+                    <a href="https://www.instagram.com/shubham_.patil_/" target="_blank" rel="noopener noreferrer" className="insta"> <i className="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
                     </div>
                     <div className="link" >
                         <label>Get the code here </label>
-                        <a href="https://github.com/chirag-23/reactjs-netflix-clone" target="_blank" className="github"  >  <i className="fa fa-link" aria-hidden="true"></i> Link</a>
+                        <a href="https://github.com/shubhampatil-7/Netflix" target="_blank" className="github"  >  <i className="fa fa-link" aria-hidden="true"></i> Link</a>
                     </div>
                     <div className="link" >
                         <label>Check my other projects </label>
-                        <a href="https://github.com/chirag-23" target="_blank" className="github"  >  <i className="fa fa-github" aria-hidden="true"></i> GitHub</a>
+                        <a href="https://github.com/shubhampatil-7" target="_blank" className="github"  >  <i className="fa fa-github" aria-hidden="true"></i> GitHub</a>
                     </div>
                 </div>
             </Content>
